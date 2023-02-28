@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">React Native Reanimated</h1>
-  <h3 align="center">React Native's Animated library reimplemented</h3>
+  <h3 align="center">Fixed version for RN71+</h3>
 </p>
 
 React Native Reanimated provides a more comprehensive,
